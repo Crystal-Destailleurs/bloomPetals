@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: color rgb(6, 42, 26);
+      text-align: center;
+      padding: 10px 0;
+      display: inline;
+      justify-content: space-evenly;
+      display: flex;
+      margin-right: 20px;
+      align-items: center;
+}
+
+.navbarre{
+      background-color :rgb(128, 227, 182);
+      border-radius: 15px; /* Réduire le bord arrondi pour éviter la répétition */
+      margin: 20px 10px;
+      text-align: center;
+      border: 2px solid rgb(58, 134, 72);
+      list-style-type: none;
+      padding: 10px;
+      font-size: 16px; /* Augmenter la taille de la police pour une meilleure lisibilité */
+      font-family: 'Pacifico', cursive;}
+.navbarre a {
+      color: green;
+}
+
+h1 {
+      text-align: center; /* Centre horizontalement */
+      margin-top: 50px; /* Ajuster la marge supérieure pour le centrage vertical */
+  }
+.bloomPetals {
+      flex: 1;
+border: 2px outset black;
+border-radius: 5px;
+text-align: center;
+font-family: 'Lora', serif;
+color: rgb(19, 70, 19); /* Couleur du texte. */
+padding-bottom: 20px;
+}
+
+.presentation {
+      margin-bottom: 20px; /* Ajoutez l'espace souhaité entre le premier texte et les images */
+  }
+
+  body{
+      background-color: rgb(179, 247, 216);
+
+      font-family: 'Lora', serif;
+  }
+
+.fleurs {
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+      margin-bottom: 20px; /* Ajoutez l'espace souhaité entre le premier texte et les images */
+}
+.pourquoi { text-align: center;}
+.fleurs img {
+      border-radius: 20px;
+}
+.services {
+display: flex;
+      flex-direction: row;
+}
+.nosservice {
+      text-align: center;
+}
+.création {
+      flex: 1;
+      margin: 10px;
+      padding: 10px;
+      border: 2px outset black;
+      border-radius: 5px;
+      text-align: center;
+      font-family: 'Lora', serif;
+      color: rgb(19, 70, 19); /* Couleur du texte. */
+      text-shadow: 
+    }
+.decoration {
+      flex: 1;
+      margin: 10px;
+      padding: 10px;
+      border: 2px outset black;
+      border-radius: 5px;
+      text-align: center;
+      font-family: 'Lora', serif;
+      color: rgb(19,70, 19 ); /* Couleur du texte. */
+      text-shadow: 
+    }
+.atelier {
+      flex: 1;
+      margin: 10px;
+      padding: 10px;
+      border: 2px outset rgba(0, 0, 0, 0.551);
+      border-radius: 5px;
+      text-align: center;
+      font-family: 'Lora', serif;
+      color: rgb(19, 70, 19); /* Couleur du texte. */
+      text-shadow: 
+    }
+
+
+
+
+
+
